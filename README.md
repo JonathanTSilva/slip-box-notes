@@ -1,3 +1,8 @@
+<!-- archive-banner:start -->
+> [!NOTE]
+> **This repository is archived.** It is read-only and no longer maintained. It is kept as a record of the work.
+<!-- archive-banner:end -->
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 Initial structure was generated with:
